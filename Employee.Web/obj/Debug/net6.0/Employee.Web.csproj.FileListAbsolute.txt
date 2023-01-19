@@ -24,3 +24,35 @@ C:\Users\Joseph Malaluan\source\repos\Employee.Web\obj\Debug\net6.0\ref\Employee
 C:\Users\Joseph Malaluan\source\repos\Employee.Web\obj\Debug\net6.0\Employee.Web.pdb
 C:\Users\Joseph Malaluan\source\repos\Employee.Web\obj\Debug\net6.0\Employee.Web.genruntimeconfig.cache
 C:\Users\Joseph Malaluan\source\repos\Employee.Web\obj\Debug\net6.0\Employee.Web.csproj.AssemblyReference.cache
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\bin\Debug\net6.0\appsettings.json
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\bin\Debug\net6.0\Employee.Web.staticwebassets.runtime.json
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\bin\Debug\net6.0\Employee.Web.exe
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\bin\Debug\net6.0\Employee.Web.deps.json
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\bin\Debug\net6.0\Employee.Web.runtimeconfig.json
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\bin\Debug\net6.0\Employee.Web.dll
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\bin\Debug\net6.0\ref\Employee.Web.dll
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\bin\Debug\net6.0\Employee.Web.pdb
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\obj\Debug\net6.0\Employee.Web.csproj.AssemblyReference.cache
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\obj\Debug\net6.0\Employee.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\obj\Debug\net6.0\Employee.Web.AssemblyInfoInputs.cache
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\obj\Debug\net6.0\Employee.Web.AssemblyInfo.cs
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\obj\Debug\net6.0\Employee.Web.csproj.CoreCompileInputs.cache
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\obj\Debug\net6.0\Employee.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\obj\Debug\net6.0\Employee.Web.RazorAssemblyInfo.cache
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\obj\Debug\net6.0\Employee.Web.RazorAssemblyInfo.cs
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\obj\Debug\net6.0\scopedcss\bundle\Employee.Web.styles.css
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\obj\Debug\net6.0\scopedcss\projectbundle\Employee.Web.bundle.scp.css
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\obj\Debug\net6.0\Employee.Web.csproj.CopyComplete
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\obj\Debug\net6.0\Employee.Web.dll
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\obj\Debug\net6.0\ref\Employee.Web.dll
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\obj\Debug\net6.0\Employee.Web.pdb
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\Employee.Web\obj\Debug\net6.0\Employee.Web.genruntimeconfig.cache

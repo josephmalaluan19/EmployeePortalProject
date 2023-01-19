@@ -6,7 +6,8 @@ function LoginUser() {
     $.ajax({
         type: 'POST',
         url: 'https://localhost:7256/api/Employee/Login?userName=string&password=string',
-        success: function () {
+        success: function (data) {
+            localStorage.setItem('token',data.token)
             document.location='/Dashboard'
         }
     });
@@ -17,7 +18,11 @@ function EditEmployee(id) {
 
     $.ajax({
         type: 'GET',
-        url: 'https://localhost:7256/api/Employee/GetEmployee?id='+id,
+        url: 'https://localhost:7256/api/Employee/GetEmployee?id=' + id,
+        "headers": {
+            "Content-Type": "application/x-www-form-urlencoded",
+            "Authorization": "Bearer " + localStorage.getItem('token'),
+        },
         success: function (data) {
             $('#employeeId').val(data.data.result.employeeId)
             $('#firstName').val(data.data.result.firstName)
@@ -41,6 +46,10 @@ function SaveUserUpdate() {
     $.ajax({
         type: 'POST',
         url: 'https://localhost:7256/api/Employee/UpdateEmployee',
+        "headers": {
+            "Content-Type": "application/x-www-form-urlencoded",
+            "Authorization": "Bearer " + localStorage.getItem('token'),
+        },
         dataType: "json",
         contentType: "application/json; charset=utf-8",
         data: {
