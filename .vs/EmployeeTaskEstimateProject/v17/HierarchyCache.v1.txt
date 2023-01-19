@@ -1,0 +1,359 @@
+﻿++Solution 'EmployeeTaskEstimateProject' ‎(5 of 5 projects)
+i:{00000000-0000-0000-0000-000000000000}:EmployeeTaskEstimateProject.sln
+++EmployeeTaskEstimateProject
+i:{00000000-0000-0000-0000-000000000000}:EmployeeTaskEstimateProject
+++Connected Services 
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:>506
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:>1084
+++Dependencies
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:>505
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:>378
+i:{979fee6e-5453-4c48-86e3-c68bcc0e60c1}:>379
+i:{9c6d31a0-0b16-45f5-aaed-9928435b921c}:>377
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:>1083
+++Properties
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\users\joseph malaluan\source\repos\employeetaskestimateproject\properties\
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\properties\
+++Controllers
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\users\joseph malaluan\source\repos\employeetaskestimateproject\controllers\
+++AuthController.cs
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\users\joseph malaluan\source\repos\employeetaskestimateproject\controllers\authcontroller.cs
+++EmployeeController.cs
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\users\joseph malaluan\source\repos\employeetaskestimateproject\controllers\employeecontroller.cs
+++appsettings.json
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\users\joseph malaluan\source\repos\employeetaskestimateproject\appsettings.json
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\appsettings.json
+++Program.cs
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\users\joseph malaluan\source\repos\employeetaskestimateproject\program.cs
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\program.cs
+++WeatherForecast.cs
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\users\joseph malaluan\source\repos\employeetaskestimateproject\weatherforecast.cs
+++No service dependencies discovered
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:>507
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:>1085
+++Analyzers
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:analyzers
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:analyzers
+i:{979fee6e-5453-4c48-86e3-c68bcc0e60c1}:analyzers
+i:{9c6d31a0-0b16-45f5-aaed-9928435b921c}:analyzers
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:analyzers
+++Frameworks
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:frameworks
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:frameworks
+i:{979fee6e-5453-4c48-86e3-c68bcc0e60c1}:frameworks
+i:{9c6d31a0-0b16-45f5-aaed-9928435b921c}:frameworks
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:frameworks
+++Packages
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:packages
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:packages
+++Projects
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:projects
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:projects
+i:{979fee6e-5453-4c48-86e3-c68bcc0e60c1}:c:\users\joseph malaluan\source\repos\employeeestimatebussinesslogic\projects\
+i:{979fee6e-5453-4c48-86e3-c68bcc0e60c1}:projects
+++launchSettings.json
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\users\joseph malaluan\source\repos\employeetaskestimateproject\properties\launchsettings.json
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\properties\launchsettings.json
+++appsettings.Development.json
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\users\joseph malaluan\source\repos\employeetaskestimateproject\appsettings.development.json
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{979fee6e-5453-4c48-86e3-c68bcc0e60c1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{9c6d31a0-0b16-45f5-aaed-9928435b921c}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{979fee6e-5453-4c48-86e3-c68bcc0e60c1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{9c6d31a0-0b16-45f5-aaed-9928435b921c}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{979fee6e-5453-4c48-86e3-c68bcc0e60c1}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{9c6d31a0-0b16-45f5-aaed-9928435b921c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\users\joseph malaluan\source\repos\employeetaskestimateproject\microsoft.aspnetcore.app
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\users\joseph malaluan\source\repos\employeetaskestimateproject\microsoft.netcore.app
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:c:\users\joseph malaluan\source\repos\employeeestimatedatabaseaccess\microsoft.netcore.app
+i:{979fee6e-5453-4c48-86e3-c68bcc0e60c1}:c:\users\joseph malaluan\source\repos\employeeestimatebussinesslogic\microsoft.netcore.app
+i:{9c6d31a0-0b16-45f5-aaed-9928435b921c}:c:\users\joseph malaluan\source\repos\employeeestimatemodel\microsoft.netcore.app
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\microsoft.netcore.app
+++Microsoft.Extensions.Configuration (6.0.1)
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:>549
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:>542
+++Microsoft.Extensions.DependencyInjection.Abstractions (6.0.0)
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:>548
+++Swashbuckle.AspNetCore (6.2.3)
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:>547
+++EmployeeEstimateBussinessLogic
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\users\joseph malaluan\source\repos\employeeestimatebussinesslogic\bin\debug\net6.0\employeeestimatebussinesslogic.dll
+i:{00000000-0000-0000-0000-000000000000}:EmployeeEstimateBussinessLogic
+++EmployeeEstimateDatabaseAccess
+i:{00000000-0000-0000-0000-000000000000}:EmployeeEstimateDatabaseAccess
+i:{979fee6e-5453-4c48-86e3-c68bcc0e60c1}:c:\users\joseph malaluan\source\repos\employeeestimatedatabaseaccess\bin\debug\net6.0\employeeestimatedatabaseaccess.dll
+++Interface
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:c:\users\joseph malaluan\source\repos\employeeestimatedatabaseaccess\interface\
+++Repository
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:c:\users\joseph malaluan\source\repos\employeeestimatedatabaseaccess\repository\
+++EmployeeRepository.cs
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:c:\users\joseph malaluan\source\repos\employeeestimatedatabaseaccess\repository\employeerepository.cs
+++ProjectRepository.cs
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:c:\users\joseph malaluan\source\repos\employeeestimatedatabaseaccess\repository\projectrepository.cs
+++Class1.cs
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:c:\users\joseph malaluan\source\repos\employeeestimatedatabaseaccess\class1.cs
+++IEmployee.cs
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:c:\users\joseph malaluan\source\repos\employeeestimatedatabaseaccess\interface\iemployee.cs
+++IGenericLibrary.cs
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:c:\users\joseph malaluan\source\repos\employeeestimatedatabaseaccess\interface\igenericlibrary.cs
+++IProject.cs
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:c:\users\joseph malaluan\source\repos\employeeestimatedatabaseaccess\interface\iproject.cs
+++ITaskEstimateRepository.cs
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:c:\users\joseph malaluan\source\repos\employeeestimatedatabaseaccess\interface\itaskestimaterepository.cs
+++Dapper (2.0.123)
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:>538
+++Microsoft.Data.SqlClient (4.1.0)
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:>533
+++Microsoft.Extensions.Configuration.Abstractions (6.0.0)
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:>535
+++System.Configuration.ConfigurationManager (6.0.0)
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:>540
+++EmployeeEstimateModel
+i:{0be25258-5c96-46b4-b9fa-c0822f1c8bf1}:c:\users\joseph malaluan\source\repos\employeeestimatemodel\bin\debug\net6.0\employeeestimatemodel.dll
+i:{979fee6e-5453-4c48-86e3-c68bcc0e60c1}:c:\users\joseph malaluan\source\repos\employeeestimatemodel\bin\debug\net6.0\employeeestimatemodel.dll
+i:{00000000-0000-0000-0000-000000000000}:EmployeeEstimateModel
+++Employees
+i:{979fee6e-5453-4c48-86e3-c68bcc0e60c1}:c:\users\joseph malaluan\source\repos\employeeestimatebussinesslogic\employees\
+++EmployeeManager.cs
+i:{979fee6e-5453-4c48-86e3-c68bcc0e60c1}:c:\users\joseph malaluan\source\repos\employeeestimatebussinesslogic\employees\employeemanager.cs
+++General
+i:{979fee6e-5453-4c48-86e3-c68bcc0e60c1}:c:\users\joseph malaluan\source\repos\employeeestimatebussinesslogic\general\
+++ProjectManager.cs
+i:{979fee6e-5453-4c48-86e3-c68bcc0e60c1}:c:\users\joseph malaluan\source\repos\employeeestimatebussinesslogic\projects\projectmanager.cs
+++Encryption.cs
+i:{979fee6e-5453-4c48-86e3-c68bcc0e60c1}:c:\users\joseph malaluan\source\repos\employeeestimatebussinesslogic\general\encryption.cs
+++EmployeeModel.cs
+i:{9c6d31a0-0b16-45f5-aaed-9928435b921c}:c:\users\joseph malaluan\source\repos\employeeestimatemodel\employeemodel.cs
+++EmployeeTaskModel.cs
+i:{9c6d31a0-0b16-45f5-aaed-9928435b921c}:c:\users\joseph malaluan\source\repos\employeeestimatemodel\employeetaskmodel.cs
+++ProjectModel.cs
+i:{9c6d31a0-0b16-45f5-aaed-9928435b921c}:c:\users\joseph malaluan\source\repos\employeeestimatemodel\projectmodel.cs
+++TasksEstimateModel.cs
+i:{9c6d31a0-0b16-45f5-aaed-9928435b921c}:c:\users\joseph malaluan\source\repos\employeeestimatemodel\tasksestimatemodel.cs
+++EmployeeTaskEstimate.Web
+++wwwroot
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\
+++Pages
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\pages\
+++Shared
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\pages\shared\
+++_Layout.cshtml
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\pages\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\pages\shared\_validationscriptspartial.cshtml
+++_ViewImports.cshtml
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\pages\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\pages\_viewstart.cshtml
+++Error.cshtml
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\pages\error.cshtml
+++Index.cshtml
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\pages\index.cshtml
+++Index.cshtml.cs
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\pages\index.cshtml.cs
+++Privacy.cshtml
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\pages\privacy.cshtml
+++css
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\css\
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\js\
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\
+++favicon.ico
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\favicon.ico
+++_Layout.cshtml.css
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\pages\shared\_layout.cshtml.css
+++Error.cshtml.cs
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\pages\error.cshtml.cs
+++Privacy.cshtml.cs
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\pages\privacy.cshtml.cs
+++site.css
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\css\site.css
+++site.js
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\js\site.js
+++bootstrap
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\
+++jquery
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\jquery\
+++jquery-validation
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\jquery-validation-unobtrusive\
+++dist
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\jquery\dist\
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\jquery\license.txt
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Solution 'EmployeeTaskEstimateProject' ‎(6 of 6 projects)
+++Employee.Web
+i:{00000000-0000-0000-0000-000000000000}:Employee.Web
+++C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Components.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Mvc.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.NetAnalyzers.dll
+++Dashboard.cshtml
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\pages\dashboard.cshtml
+++Dashboard.cshtml.cs
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\pages\dashboard.cshtml.cs
+++jquery.dataTables.min.js
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\js\jquery.datatables.min.js
+++jquery.dataTables.min.css
+i:{39116e16-55c7-4ece-95b2-3a24bbe00e2a}:c:\users\joseph malaluan\source\repos\employee.web\wwwroot\css\jquery.datatables.min.css
+++.gitattributes
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\users\joseph malaluan\source\repos\employeetaskestimateproject\.gitattributes
+++.gitignore
+i:{d5b9058c-39cd-4a2e-ab08-339c7672abd4}:c:\users\joseph malaluan\source\repos\employeetaskestimateproject\.gitignore

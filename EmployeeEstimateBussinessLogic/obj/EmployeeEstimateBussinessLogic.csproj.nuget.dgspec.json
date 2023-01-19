@@ -1,0 +1,203 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\EmployeePortalProject\\EmployeeTaskEstimateProject\\EmployeeEstimateBussinessLogic\\EmployeeEstimateBussinessLogic.csproj": {}
+  },
+  "projects": {
+    "C:\\EmployeePortalProject\\EmployeeTaskEstimateProject\\EmployeeEstimateBussinessLogic\\EmployeeEstimateBussinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\EmployeePortalProject\\EmployeeTaskEstimateProject\\EmployeeEstimateBussinessLogic\\EmployeeEstimateBussinessLogic.csproj",
+        "projectName": "EmployeeEstimateBussinessLogic",
+        "projectPath": "C:\\EmployeePortalProject\\EmployeeTaskEstimateProject\\EmployeeEstimateBussinessLogic\\EmployeeEstimateBussinessLogic.csproj",
+        "packagesPath": "C:\\Users\\Joseph Malaluan\\.nuget\\packages\\",
+        "outputPath": "C:\\EmployeePortalProject\\EmployeeTaskEstimateProject\\EmployeeEstimateBussinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Joseph Malaluan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\EmployeePortalProject\\EmployeeTaskEstimateProject\\EmployeeEstimateDatabaseAccess\\EmployeeEstimateDatabaseAccess.csproj": {
+                "projectPath": "C:\\EmployeePortalProject\\EmployeeTaskEstimateProject\\EmployeeEstimateDatabaseAccess\\EmployeeEstimateDatabaseAccess.csproj"
+              },
+              "C:\\EmployeePortalProject\\EmployeeTaskEstimateProject\\EmployeeEstimateModel\\EmployeeEstimateModel.csproj": {
+                "projectPath": "C:\\EmployeePortalProject\\EmployeeTaskEstimateProject\\EmployeeEstimateModel\\EmployeeEstimateModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EmployeePortalProject\\EmployeeTaskEstimateProject\\EmployeeEstimateDatabaseAccess\\EmployeeEstimateDatabaseAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\EmployeePortalProject\\EmployeeTaskEstimateProject\\EmployeeEstimateDatabaseAccess\\EmployeeEstimateDatabaseAccess.csproj",
+        "projectName": "EmployeeEstimateDatabaseAccess",
+        "projectPath": "C:\\EmployeePortalProject\\EmployeeTaskEstimateProject\\EmployeeEstimateDatabaseAccess\\EmployeeEstimateDatabaseAccess.csproj",
+        "packagesPath": "C:\\Users\\Joseph Malaluan\\.nuget\\packages\\",
+        "outputPath": "C:\\EmployeePortalProject\\EmployeeTaskEstimateProject\\EmployeeEstimateDatabaseAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Joseph Malaluan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\EmployeePortalProject\\EmployeeTaskEstimateProject\\EmployeeEstimateModel\\EmployeeEstimateModel.csproj": {
+                "projectPath": "C:\\EmployeePortalProject\\EmployeeTaskEstimateProject\\EmployeeEstimateModel\\EmployeeEstimateModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EmployeePortalProject\\EmployeeTaskEstimateProject\\EmployeeEstimateModel\\EmployeeEstimateModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\EmployeePortalProject\\EmployeeTaskEstimateProject\\EmployeeEstimateModel\\EmployeeEstimateModel.csproj",
+        "projectName": "EmployeeEstimateModel",
+        "projectPath": "C:\\EmployeePortalProject\\EmployeeTaskEstimateProject\\EmployeeEstimateModel\\EmployeeEstimateModel.csproj",
+        "packagesPath": "C:\\Users\\Joseph Malaluan\\.nuget\\packages\\",
+        "outputPath": "C:\\EmployeePortalProject\\EmployeeTaskEstimateProject\\EmployeeEstimateModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Joseph Malaluan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

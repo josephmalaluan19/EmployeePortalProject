@@ -1,0 +1,34 @@
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateBussinessLogic\bin\Debug\net6.0\EmployeeEstimateBussinessLogic.deps.json
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateBussinessLogic\bin\Debug\net6.0\EmployeeEstimateBussinessLogic.dll
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateBussinessLogic\bin\Debug\net6.0\ref\EmployeeEstimateBussinessLogic.dll
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateBussinessLogic\bin\Debug\net6.0\EmployeeEstimateBussinessLogic.pdb
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateBussinessLogic\bin\Debug\net6.0\EmployeeEstimateDatabaseAccess.dll
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateBussinessLogic\bin\Debug\net6.0\EmployeeEstimateModel.dll
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateBussinessLogic\bin\Debug\net6.0\EmployeeEstimateDatabaseAccess.pdb
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateBussinessLogic\bin\Debug\net6.0\EmployeeEstimateModel.pdb
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateBussinessLogic\obj\Debug\net6.0\EmployeeEstimateBussinessLogic.csproj.AssemblyReference.cache
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateBussinessLogic\obj\Debug\net6.0\EmployeeEstimateBussinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateBussinessLogic\obj\Debug\net6.0\EmployeeEstimateBussinessLogic.AssemblyInfoInputs.cache
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateBussinessLogic\obj\Debug\net6.0\EmployeeEstimateBussinessLogic.AssemblyInfo.cs
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateBussinessLogic\obj\Debug\net6.0\EmployeeEstimateBussinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateBussinessLogic\obj\Debug\net6.0\EmployeeEstimateBussinessLogic.csproj.CopyComplete
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateBussinessLogic\obj\Debug\net6.0\EmployeeEstimateBussinessLogic.dll
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateBussinessLogic\obj\Debug\net6.0\ref\EmployeeEstimateBussinessLogic.dll
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateBussinessLogic\obj\Debug\net6.0\EmployeeEstimateBussinessLogic.pdb
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateBussinessLogic\bin\Debug\net6.0\EmployeeEstimateBussinessLogic.deps.json
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateBussinessLogic\bin\Debug\net6.0\EmployeeEstimateBussinessLogic.dll
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateBussinessLogic\bin\Debug\net6.0\ref\EmployeeEstimateBussinessLogic.dll
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateBussinessLogic\bin\Debug\net6.0\EmployeeEstimateBussinessLogic.pdb
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateBussinessLogic\bin\Debug\net6.0\EmployeeEstimateDatabaseAccess.dll
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateBussinessLogic\bin\Debug\net6.0\EmployeeEstimateModel.dll
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateBussinessLogic\bin\Debug\net6.0\EmployeeEstimateDatabaseAccess.pdb
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateBussinessLogic\bin\Debug\net6.0\EmployeeEstimateModel.pdb
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateBussinessLogic\obj\Debug\net6.0\EmployeeEstimateBussinessLogic.csproj.AssemblyReference.cache
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateBussinessLogic\obj\Debug\net6.0\EmployeeEstimateBussinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateBussinessLogic\obj\Debug\net6.0\EmployeeEstimateBussinessLogic.AssemblyInfoInputs.cache
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateBussinessLogic\obj\Debug\net6.0\EmployeeEstimateBussinessLogic.AssemblyInfo.cs
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateBussinessLogic\obj\Debug\net6.0\EmployeeEstimateBussinessLogic.csproj.CoreCompileInputs.cache
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateBussinessLogic\obj\Debug\net6.0\EmployeeEstimateBussinessLogic.csproj.CopyComplete
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateBussinessLogic\obj\Debug\net6.0\EmployeeEstimateBussinessLogic.dll
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateBussinessLogic\obj\Debug\net6.0\ref\EmployeeEstimateBussinessLogic.dll
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateBussinessLogic\obj\Debug\net6.0\EmployeeEstimateBussinessLogic.pdb

@@ -1,0 +1,30 @@
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateDatabaseAccess\bin\Debug\net6.0\EmployeeEstimateDatabaseAccess.deps.json
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateDatabaseAccess\bin\Debug\net6.0\EmployeeEstimateDatabaseAccess.dll
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateDatabaseAccess\bin\Debug\net6.0\ref\EmployeeEstimateDatabaseAccess.dll
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateDatabaseAccess\bin\Debug\net6.0\EmployeeEstimateDatabaseAccess.pdb
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateDatabaseAccess\bin\Debug\net6.0\EmployeeEstimateModel.dll
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateDatabaseAccess\bin\Debug\net6.0\EmployeeEstimateModel.pdb
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateDatabaseAccess\obj\Debug\net6.0\EmployeeEstimateDatabaseAccess.csproj.AssemblyReference.cache
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateDatabaseAccess\obj\Debug\net6.0\EmployeeEstimateDatabaseAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateDatabaseAccess\obj\Debug\net6.0\EmployeeEstimateDatabaseAccess.AssemblyInfoInputs.cache
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateDatabaseAccess\obj\Debug\net6.0\EmployeeEstimateDatabaseAccess.AssemblyInfo.cs
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateDatabaseAccess\obj\Debug\net6.0\EmployeeEstimateDatabaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateDatabaseAccess\obj\Debug\net6.0\EmployeeEstimateDatabaseAccess.csproj.CopyComplete
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateDatabaseAccess\obj\Debug\net6.0\EmployeeEstimateDatabaseAccess.dll
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateDatabaseAccess\obj\Debug\net6.0\ref\EmployeeEstimateDatabaseAccess.dll
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateDatabaseAccess\obj\Debug\net6.0\EmployeeEstimateDatabaseAccess.pdb
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateDatabaseAccess\bin\Debug\net6.0\EmployeeEstimateDatabaseAccess.deps.json
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateDatabaseAccess\bin\Debug\net6.0\EmployeeEstimateDatabaseAccess.dll
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateDatabaseAccess\bin\Debug\net6.0\ref\EmployeeEstimateDatabaseAccess.dll
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateDatabaseAccess\bin\Debug\net6.0\EmployeeEstimateDatabaseAccess.pdb
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateDatabaseAccess\bin\Debug\net6.0\EmployeeEstimateModel.dll
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateDatabaseAccess\bin\Debug\net6.0\EmployeeEstimateModel.pdb
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateDatabaseAccess\obj\Debug\net6.0\EmployeeEstimateDatabaseAccess.csproj.AssemblyReference.cache
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateDatabaseAccess\obj\Debug\net6.0\EmployeeEstimateDatabaseAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateDatabaseAccess\obj\Debug\net6.0\EmployeeEstimateDatabaseAccess.AssemblyInfoInputs.cache
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateDatabaseAccess\obj\Debug\net6.0\EmployeeEstimateDatabaseAccess.AssemblyInfo.cs
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateDatabaseAccess\obj\Debug\net6.0\EmployeeEstimateDatabaseAccess.csproj.CoreCompileInputs.cache
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateDatabaseAccess\obj\Debug\net6.0\EmployeeEstimateDatabaseAccess.csproj.CopyComplete
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateDatabaseAccess\obj\Debug\net6.0\EmployeeEstimateDatabaseAccess.dll
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateDatabaseAccess\obj\Debug\net6.0\ref\EmployeeEstimateDatabaseAccess.dll
+C:\EmployeePortalProject\EmployeeTaskEstimateProject\EmployeeEstimateDatabaseAccess\obj\Debug\net6.0\EmployeeEstimateDatabaseAccess.pdb

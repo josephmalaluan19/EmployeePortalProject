@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d5b9058c-39cd-4a2e-ab08-339c7672abd4": {
+      "ProjectGuid": "d5b9058c-39cd-4a2e-ab08-339c7672abd4",
+      "DisplayName": "EmployeeTaskEstimateProject",
+      "ColorIndex": 0
+    },
+    "0be25258-5c96-46b4-b9fa-c0822f1c8bf1": {
+      "ProjectGuid": "0be25258-5c96-46b4-b9fa-c0822f1c8bf1",
+      "DisplayName": "EmployeeEstimateDatabaseAccess",
+      "ColorIndex": 1
+    },
+    "979fee6e-5453-4c48-86e3-c68bcc0e60c1": {
+      "ProjectGuid": "979fee6e-5453-4c48-86e3-c68bcc0e60c1",
+      "DisplayName": "EmployeeEstimateBussinessLogic",
+      "ColorIndex": 2
+    },
+    "9c6d31a0-0b16-45f5-aaed-9928435b921c": {
+      "ProjectGuid": "9c6d31a0-0b16-45f5-aaed-9928435b921c",
+      "DisplayName": "EmployeeEstimateModel",
+      "ColorIndex": 3
+    },
+    "83757032-4d38-4f3b-8b62-c4032972f7e3": {
+      "ProjectGuid": "83757032-4d38-4f3b-8b62-c4032972f7e3",
+      "DisplayName": "EmployeeTaskEstimate.Web",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "39116e16-55c7-4ece-95b2-3a24bbe00e2a": {
+      "ProjectGuid": "39116e16-55c7-4ece-95b2-3a24bbe00e2a",
+      "DisplayName": "Employee.Web",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

@@ -1,0 +1,12 @@
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateModel\bin\Debug\net6.0\EmployeeEstimateModel.deps.json
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateModel\bin\Debug\net6.0\EmployeeEstimateModel.dll
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateModel\bin\Debug\net6.0\ref\EmployeeEstimateModel.dll
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateModel\bin\Debug\net6.0\EmployeeEstimateModel.pdb
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateModel\obj\Debug\net6.0\EmployeeEstimateModel.csproj.AssemblyReference.cache
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateModel\obj\Debug\net6.0\EmployeeEstimateModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateModel\obj\Debug\net6.0\EmployeeEstimateModel.AssemblyInfoInputs.cache
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateModel\obj\Debug\net6.0\EmployeeEstimateModel.AssemblyInfo.cs
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateModel\obj\Debug\net6.0\EmployeeEstimateModel.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateModel\obj\Debug\net6.0\EmployeeEstimateModel.dll
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateModel\obj\Debug\net6.0\ref\EmployeeEstimateModel.dll
+C:\Users\Joseph Malaluan\source\repos\EmployeeEstimateModel\obj\Debug\net6.0\EmployeeEstimateModel.pdb

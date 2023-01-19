@@ -1,0 +1,88 @@
+﻿@page
+@model Employee.Web.Pages.DashboardModel
+@{
+}
+<table id="example" class="display nowrap" style="width:100%">
+        <thead>
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                 <th>Action</th>
+            </tr>
+        </thead>
+        <tfoot>
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Action</th>
+            </tr>
+        </tfoot>
+    </table>
+
+    <div>
+                            <button class="btn btn-primary btn-block" type="button" onclick="AddNewUser()">Add New User</button>
+    </div>
+
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Add New Employee</h4>
+        </div>
+        <div class="modal-body">
+                  <div class="form-outline mb-4">
+                    <input type="email" id="newUserName" class="form-control"
+                      placeholder="text" />
+                  </div>
+
+                  <div class="form-outline mb-4">
+                    <input type="text" id="newFirstName" class="form-control" placeholder="First Name" />
+                  </div>
+                  <div class="form-outline mb-4">
+                    <input type="text" id="newLirstName" class="form-control" placeholder="Last Name"/>
+                  </div>
+                   <button class="btn btn-primary btn-block" type="button" onclick="SaveNewUser()">Save</button>
+        </div>
+        <div class="modal-footer">
+        </div>
+      </div>
+      
+    </div>
+  </div>
+
+    <div class="modal fade" id="updateModal" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Update Employee</h4>
+        </div>
+        <div class="modal-body">
+                              <div class="form-outline mb-4">
+                    <input type="text" id="employeeId" class="form-control"
+                      placeholder="UserName" readonly />
+                  </div>
+                  <div class="form-outline mb-4">
+                    <input type="text" id="userName" class="form-control"
+                      placeholder="UserName" />
+                  </div>
+
+                  <div class="form-outline mb-4">
+                    <input type="text" id="firstName" class="form-control" placeholder="First Name" />
+                  </div>
+                  <div class="form-outline mb-4">
+                    <input type="text" id="lastName" class="form-control" placeholder="Last Name"/>
+                  </div>
+                   <button class="btn btn-primary btn-block" type="button" onclick="SaveUserUpdate()">Save</button>
+        </div>
+        <div class="modal-footer">
+        </div>
+      </div>
+      
+    </div>
+  </div>
